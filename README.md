@@ -360,15 +360,6 @@ The Silent Zone engine integrates directly into the unified 70-page full-stack s
 ## 15. 👥 Contributors & Core Team
 
 <table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/singhrishikesh1">
-        <img src="https://github.com/singhrishikesh1.png" width="100px;" alt="Rishikesh Singh"/><br />
-        <sub><b>Rishikesh Singh</b></sub>
-      </a><br />
-      <sub>Core Developer & ML Architecture</sub><br />
-      <a href="https://github.com/singhrishikesh1" title="GitHub">💻 📖 🔬</a>
-    </td>
     <td align="center">
       <a href="https://github.com/hiyashaikh16">
         <img src="https://github.com/hiyashaikh16.png" width="100px;" alt="Hiya Shaikh"/><br />
@@ -380,6 +371,9 @@ The Silent Zone engine integrates directly into the unified 70-page full-stack s
   </tr>
 </table>
 
-See [CONTRIBUTORS.md](CONTRIBUTORS.md) for full contributor details, profiles, and contribution guidelines.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------
+Build for Innovik 6.0 International Hackathon 2026
+
 
 
