@@ -1,4 +1,4 @@
-# SAHAYAK (सहायक): AI-Powered Autonomous Disaster Intelligence Platform
+# VajraWatch: AI-Powered Autonomous Disaster Intelligence Platform
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-2.0+-009688.svg?style=flat&logo=FastAPI&logoColor=white)](https://fastapi.tiangolo.com)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.28+-FF4B4B.svg?style=flat&logo=Streamlit&logoColor=white)](https://streamlit.io)
