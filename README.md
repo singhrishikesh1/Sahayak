@@ -370,10 +370,3 @@ The Silent Zone engine integrates directly into the unified 70-page full-stack s
     </td>
   </tr>
 </table>
-
-
------------------------------------------------------------------------------------------------------------------------------------------------
-Build for Innovik 6.0 International Hackathon 2026
-
-
-
