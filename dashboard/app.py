@@ -688,3 +688,4 @@ if inference:
             ]
             df2 = pd.DataFrame(impact_drivers).set_index("factor")
             st.bar_chart(df2["relative_impact"])
+            
