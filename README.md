@@ -346,7 +346,6 @@ In an operational deployment, this prototype integrates with authoritative India
 4. **Telecom Data Privacy**: Live operationalization requires authorized DoT access to tower telemetry under lawful emergency disaster declarations.
 
 ---
-
 ## 14. 🛰️ Integrated PS20 Disaster Intelligence Platform & SatQuery AI Studio
 
 The Silent Zone engine integrates directly into the unified 70-page full-stack situational platform in `ps20-disaster-intelligence`:
@@ -356,7 +355,6 @@ The Silent Zone engine integrates directly into the unified 70-page full-stack s
 - **1-Click Launcher**: Double-click `OPEN_FRONTEND.bat` to launch `http://localhost:8080/dashboard.html`.
 
 ---
-
 ## 15. 👥 Contributors & Core Team
 
 <table>
