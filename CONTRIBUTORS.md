@@ -20,3 +20,4 @@ We welcome contributions to expand Vajra Watch, geospatial algorithms, and disas
 - Commit your changes (`git commit -m 'Add amazing feature'`)
 - Push to the branch (`git push origin feature/amazing-feature`)
 - Open a Pull Request
+
