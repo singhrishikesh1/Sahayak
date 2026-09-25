@@ -222,3 +222,4 @@ EMERGENCY_ACTIONS: Dict[str, List[str]] = {
 def get_recommended_actions(severity: str) -> List[str]:
     """Returns protocol recommendations based on severity level."""
     return EMERGENCY_ACTIONS.get(severity.upper(), EMERGENCY_ACTIONS["LOW"])
+
