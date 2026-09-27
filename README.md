@@ -360,7 +360,7 @@ The Silent Zone engine integrates directly into the unified 70-page full-stack s
       <a href="https://github.com/hiyashaikh16">
         <img src="https://github.com/hiyashaikh16.png" width="100px;" alt="Hiya Shaikh"/><br />
         <sub><b>Hiya Shaikh</b></sub>
-      </a><br />
+      </a><br 
       <sub>Core Developer & Systems Engineering</sub><br />
       <a href="https://github.com/hiyashaikh16" title="GitHub">💻 🎨 📊</a>
     </td>
