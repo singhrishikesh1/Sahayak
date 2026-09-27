@@ -175,3 +175,4 @@ if __name__ == "__main__":
     print("A* Evacuation Router Output:")
     print(" - Route A Status:", res["route_a_coastal_direct"]["status"])
     print(" - Route B Status:", res["route_b_elevated_bypass"]["status"])
+
