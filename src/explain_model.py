@@ -242,3 +242,5 @@ if __name__ == "__main__":
         compute_global_shap_explanations()
     except Exception as e:
         logger.error(f"Could not compute SHAP summary (ensure model is trained): {e}")
+
+
