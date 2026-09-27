@@ -195,3 +195,4 @@ if __name__ == "__main__":
             "accessibility_risk",
         ]:
             print(f"- {col}: {fe_df[col].values[:3]}")
+
