@@ -364,4 +364,3 @@ The Silent Zone engine integrates directly into the unified 70-page full-stack s
       <sub>Core Developer & Systems Engineering</sub><br />
       <a href="https://github.com/hiyashaikh16" title="GitHub">💻 🎨 📊</a>
     </td>
-  </tr>
