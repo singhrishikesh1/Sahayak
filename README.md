@@ -352,8 +352,6 @@ The Silent Zone engine integrates directly into the unified 70-page full-stack s
 - **Command Dashboard (`dashboard.html`)**: Interactive Leaflet GIS tactical map, Jordan ray-casting evacuation routing, NLP emergency triage, and live SQLite state store inspection.
 - **SatQuery AI Studio (`satquery.html`)**: Natural language to satellite tasking utilizing Sentinel-1 SAR radar, Sentinel-2 MSI optical (10m), and PlanetScope (3m) daily revisits with real-time NDWI, MNDWI, NDVI, and SAR coherence change metrics.
 - **16 Multi-Hazard Engines**: Unified ML suite spanning flood inundation, lead time, seismic building collapse, storm surge, and LP supply redistribution.
-- **1-Click Launcher**: Double-click `OPEN_FRONTEND.bat` to launch `http://localhost:8080/dashboard.html`.
-
 ---
 ## 15. 👥 Contributors & Core Team
 
