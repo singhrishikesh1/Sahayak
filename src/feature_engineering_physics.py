@@ -130,3 +130,4 @@ if __name__ == "__main__":
             "built_environment_fragility",
         ]:
             print(f" - {col}: {res[col].values[:3]}")
+
