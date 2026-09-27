@@ -17,4 +17,4 @@ We welcome contributions to expand Vajra Watch, geospatial algorithms, and disas
 
 - Fork the repository
 - Create your feature branch (`git checkout -b feature/amazing-feature`)
-- Commit your changes (`git commit 
+- Commit your changes (`git 
