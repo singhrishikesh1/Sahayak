@@ -218,3 +218,4 @@ if __name__ == "__main__":
     print(f"Impact severity distribution:\n{df['impact_severity'].value_counts()}")
     print(f"Disaster types:\n{df['disaster_type'].value_counts()}")
     print(f"Columns: {list(df.columns)}")
+
