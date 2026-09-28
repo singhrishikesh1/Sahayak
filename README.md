@@ -338,13 +338,11 @@ In an operational deployment, this prototype integrates with authoritative India
 > **Demonstration Boundary**: In this repository, synthetic scenarios represent these physical behaviors for research and hackathon demonstration without infringing on proprietary telecom data or claiming live government API feeds.
 
 ---
-
 ## 13. Limitations & Disclaimers
 1. **Decision Support Only**: This system is a statistical and probabilistic decision-support tool. Predictions must never supersede tactical ground intelligence from local district administration and NDRF reconnaissance teams.
 2. **Synthetic Training Baseline**: The default model is trained on curated synthetic distributions. Production deployment requires calibration on historical disaster telemetry (e.g., Cyclone Fani, 2018 Kerala Floods, 2001 Bhuj Earthquake).
 3. **Distribution Shifts**: Extreme multi-hazard compounding events (e.g., simultaneous dam breach and cyclone landfall) may fall outside standard feature distributions.
 4. **Telecom Data Privacy**: Live operationalization requires authorized DoT access to tower telemetry under lawful emergency disaster declarations.
-
 ---
 ## 14. 🛰️ Integrated PS20 Disaster Intelligence Platform & SatQuery AI Studio
 
