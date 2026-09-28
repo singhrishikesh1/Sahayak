@@ -153,7 +153,6 @@ The dataset captures 21 raw physical, environmental, infrastructural, and demogr
 
 
 > **Data Provenance**: Sample dataset records are realistic **synthetic demonstration data** crafted to reflect physical vulnerability patterns in India. They do not constitute official classified government telemetry.
-
 ---
 ## 6. Installation & Quick Start
 
